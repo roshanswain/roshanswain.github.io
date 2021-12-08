@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Roshan Swain</title>
+        <link>https://roshanswain.github.io/posts/</link>
+        <description>All Posts | Roshan Swain</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>swainroshan001@gmail.com (Roshan Swain)</managingEditor>
+            <webMaster>swainroshan001@gmail.com (Roshan Swain)</webMaster><copyright> This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 08 Dec 2021 08:40:38 &#43;0530</lastBuildDate><atom:link href="https://roshanswain.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://roshanswain.github.io/posts/first_post/</link>
+    <pubDate>Wed, 08 Dec 2021 08:40:38 &#43;0530</pubDate><author>
+        <name>Roshan Swain</name>
+    </author><guid>https://roshanswain.github.io/posts/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
