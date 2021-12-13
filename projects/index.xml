@@ -9,49 +9,13 @@
     <managingEditor>swainroshan001@gmail.com (Roshan Swain)</managingEditor>
     <webMaster>swainroshan001@gmail.com (Roshan Swain)</webMaster>
     <copyright> This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 08 Dec 2021 14:43:00 +0530</lastBuildDate><atom:link href="https://roshanswain.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Dec 2021 15:13:49 +0530</lastBuildDate><atom:link href="https://roshanswain.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project5</title>
-      <link>https://roshanswain.github.io/projects/project5/</link>
-      <pubDate>Wed, 08 Dec 2021 14:43:00 +0530</pubDate>
+      <title>Dl_autoEncoder</title>
+      <link>https://roshanswain.github.io/projects/dl_autoencoder/</link>
+      <pubDate>Thu, 09 Dec 2021 15:13:49 +0530</pubDate>
       <author>swainroshan001@gmail.com (Roshan Swain)</author>
-      <guid>https://roshanswain.github.io/projects/project5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project4</title>
-      <link>https://roshanswain.github.io/projects/project4/</link>
-      <pubDate>Wed, 08 Dec 2021 14:35:47 +0530</pubDate>
-      <author>swainroshan001@gmail.com (Roshan Swain)</author>
-      <guid>https://roshanswain.github.io/projects/project4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project3</title>
-      <link>https://roshanswain.github.io/projects/project3/</link>
-      <pubDate>Wed, 08 Dec 2021 14:35:36 +0530</pubDate>
-      <author>swainroshan001@gmail.com (Roshan Swain)</author>
-      <guid>https://roshanswain.github.io/projects/project3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project2</title>
-      <link>https://roshanswain.github.io/projects/project2/</link>
-      <pubDate>Wed, 08 Dec 2021 14:35:29 +0530</pubDate>
-      <author>swainroshan001@gmail.com (Roshan Swain)</author>
-      <guid>https://roshanswain.github.io/projects/project2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project1</title>
-      <link>https://roshanswain.github.io/projects/project1/</link>
-      <pubDate>Wed, 08 Dec 2021 14:35:23 +0530</pubDate>
-      <author>swainroshan001@gmail.com (Roshan Swain)</author>
-      <guid>https://roshanswain.github.io/projects/project1/</guid>
+      <guid>https://roshanswain.github.io/projects/dl_autoencoder/</guid>
       <description></description>
     </item>
     
